@@ -1,4 +1,4 @@
-
+package agua
 
 object Agua{
 
@@ -92,7 +92,7 @@ object Agua{
 
 }
 
-object AguaTest extends App{
+object AguaMain extends App{
   import Agua._
 
   val s = Superficie(8,8)
